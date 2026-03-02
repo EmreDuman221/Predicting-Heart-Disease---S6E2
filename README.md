@@ -12,7 +12,7 @@ This repository contains my implementation and notes based on a Kaggle solution 
 
 **Original writeup (Kaggle):** https://www.kaggle.com/competitions/playground-series-s6e2/writeups/15th-place-solution  
 
-[![Pipeline diagram](assets/fig1.png)](/Workflow.png)
+[![Pipeline diagram](assets/fig1.png)](Workflow.png)
 
 **Overview**
 
