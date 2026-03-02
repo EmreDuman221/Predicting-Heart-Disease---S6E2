@@ -12,8 +12,7 @@ This repository contains my implementation and notes based on a Kaggle solution 
 
 **Original writeup (Kaggle):** https://www.kaggle.com/competitions/playground-series-s6e2/writeups/15th-place-solution  
 
-[![Pipeline diagram](assets/fig1.png)](Workflow.png)
-
+[![Pipeline diagram](Workflow.png)](Workflow.png)
 **Overview**
 
 This solution is a tree-based + boosting pipeline with careful leakage control for encodings and a simple but effective per-fold hillclimb blend between XGBoost and CatBoost. Performance comes mainly from:
