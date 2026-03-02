@@ -1,6 +1,6 @@
 Kaggle - Predicting Heart Disease - S6E2 - 15th Place Solution
 
-## 15th Place Kaggle Writeup (ported)
+## 15th Place Kaggle Writeup
 
 This repository contains my implementation and notes based on a Kaggle solution writeup for
 **Playground Series S6E2 – Heart Disease Prediction**.
